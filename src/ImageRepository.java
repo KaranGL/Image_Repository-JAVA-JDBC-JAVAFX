@@ -2,7 +2,7 @@
  * Author - Karan Sharma
  * Date - 5 January, 2021
  * Detail - A Javafx application that uses JDBC driver to connect to an 
- * 			image repository/database to search, add or delete images. 
+ * 			image repository/database to add images. 
  */
 
 import javafx.application.Application;
